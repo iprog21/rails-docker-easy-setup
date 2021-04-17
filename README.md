@@ -1,4 +1,4 @@
-# iprog-tools
+# rails-docker-easy-setup
 Steps
 1. docker-compose run --no-deps web rails new . --force --database=postgresql
 2. sudo chown -R $USER:$USER . (For Linux user)
