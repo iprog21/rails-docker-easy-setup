@@ -31,3 +31,7 @@ Steps
 ```
   source: https://docs.docker.com/compose/rails/
 ```
+
+```
+  Demo: https://www.youtube.com/watch?v=VQ4zIpSTTgM&t=3s
+```
